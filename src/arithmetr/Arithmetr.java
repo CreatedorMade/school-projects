@@ -1,4 +1,4 @@
-package timedmathgame;
+package arithmetr;
 
 import javax.swing.*;
 
