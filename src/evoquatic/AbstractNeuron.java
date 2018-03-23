@@ -1,4 +1,5 @@
-package neurality;
+package evoquatic;
+
 
 public abstract class AbstractNeuron {
 	public int[][] inputs = new int[0][2];

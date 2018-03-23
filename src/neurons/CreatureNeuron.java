@@ -1,6 +1,6 @@
 package neurons;
 
-import evoquatic.AbstractNeuron;
+import neurality.AbstractNeuron;
 
 public abstract class CreatureNeuron extends AbstractNeuron {
 	public void setSensoryInput(double d) {};

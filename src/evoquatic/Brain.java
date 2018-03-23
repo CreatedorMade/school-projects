@@ -1,4 +1,5 @@
-package neurality;
+package evoquatic;
+
 
 public class Brain {
 	int tick = 0;
